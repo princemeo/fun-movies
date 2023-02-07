@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100vw;
+    height: 18vh;
+    border-bottom: 5px solid whitesmoke;
+}
+header ul {
+    display: flex;
+}
+.up{
+    margin-top: 26px;
+}
+.li{
+    margin-top: 3px;
+}
+header ul li img{
+    width: 222px;
+    margin-top: -42px;
+}
+header ul li{
+    list-style-type: none;
+}
+header ul li a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 18px;
+
+}
+main{
+    width: 100vw;
+    height: 72vh;
+}
+.h1{
+    text-align: center;
+
+}
+.center{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sidebyside{
+    display: flex;
+    justify-content: space-around;
+}
+.hollywood{
+    width: 50vw;
+}
+.hollywood p{
+    margin-top: 20px
+}
+.anime{
+    width: 50vw;
+}
+.anime p{
+    margin-top: 20px;
+}
+footer{
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+}
+.copyright{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}

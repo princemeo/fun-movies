@@ -1,0 +1,24 @@
+@media screen and (max-width:628px) {
+    header ul li img{
+        width: 180px;
+    }
+    .sidebyside{
+        display: flex;
+        justify-content: space-between;
+    }
+    .hollywood{
+        font-size: small;
+    }
+    .hollywood p{
+        margin-left: 4vw;
+        margin-top: 2vw;
+    }
+    .anime{
+        font-size: small;
+    }
+    .anime p{
+        margin-left: 4vw;
+        margin-top: 2vw;
+    }
+}
+
